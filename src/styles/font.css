@@ -1,0 +1,5 @@
+
+ @font-face { font-display: swap; font-style : normal; src: url("assets/fonts/SoraSemiBold.ttf"); font-family : "Sora"; font-weight : 600;  }
+ @font-face { font-display: swap; font-style : normal; src: url("assets/fonts/InterRegular.ttf"); font-family : "Inter"; font-weight : 400;  }
+ @font-face { font-display: swap; font-style : normal; src: url("assets/fonts/InterBold.ttf"); font-family : "Inter"; font-weight : 700;  }
+ @font-face { font-display: swap; font-style : normal; src: url("assets/fonts/InterMedium.ttf"); font-family : "Inter"; font-weight : 500;  }
